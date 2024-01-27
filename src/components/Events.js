@@ -278,7 +278,7 @@ function Events() {
             </div>
           </div>
           <div className="right yellow cards">
-            <img src="./images/img.png" alt="images" />
+            <img src="./images/Img.png" alt="images" />
             <div className="yellow-small big">
               <h6>08</h6>
               <p className="first">FEB</p>
